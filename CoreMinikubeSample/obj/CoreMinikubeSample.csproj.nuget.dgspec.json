@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Projects\\NETCoreK8sSample\\NetCoreK8sSample\\CoreMinikubeSample\\CoreMinikubeSample\\CoreMinikubeSample.csproj": {}
+    "F:\\Projects\\NETCoreK8sSample\\CoreMinikubeSample\\CoreMinikubeSample\\CoreMinikubeSample.csproj": {}
   },
   "projects": {
-    "F:\\Projects\\NETCoreK8sSample\\NetCoreK8sSample\\CoreMinikubeSample\\CoreMinikubeSample\\CoreMinikubeSample.csproj": {
+    "F:\\Projects\\NETCoreK8sSample\\CoreMinikubeSample\\CoreMinikubeSample\\CoreMinikubeSample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Projects\\NETCoreK8sSample\\NetCoreK8sSample\\CoreMinikubeSample\\CoreMinikubeSample\\CoreMinikubeSample.csproj",
+        "projectUniqueName": "F:\\Projects\\NETCoreK8sSample\\CoreMinikubeSample\\CoreMinikubeSample\\CoreMinikubeSample.csproj",
         "projectName": "CoreMinikubeSample",
-        "projectPath": "F:\\Projects\\NETCoreK8sSample\\NetCoreK8sSample\\CoreMinikubeSample\\CoreMinikubeSample\\CoreMinikubeSample.csproj",
+        "projectPath": "F:\\Projects\\NETCoreK8sSample\\CoreMinikubeSample\\CoreMinikubeSample\\CoreMinikubeSample.csproj",
         "packagesPath": "C:\\Users\\mramezani.RAYANMEHR\\.nuget\\packages\\",
-        "outputPath": "F:\\Projects\\NETCoreK8sSample\\NetCoreK8sSample\\CoreMinikubeSample\\CoreMinikubeSample\\obj\\",
+        "outputPath": "F:\\Projects\\NETCoreK8sSample\\CoreMinikubeSample\\CoreMinikubeSample\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jIBnJSMrFV0+cIEpJqwMIp2Bzn9xuvuyg0gfowoaVXih7RkRO1o+ayYXH+TnryUsq51Nn0weFoT8iZTNaTlMbQ==",
+  "dgSpecHash": "5KVieTlckHyGJ3vFzAzufCyM0el4lZnaYHtXL9JYz/OYAxAuWsUXaN4TnliXHNntx/9HmUCd6VGo64QoDy/8Iw==",
   "success": true,
-  "projectFilePath": "F:\\Projects\\NETCoreK8sSample\\NetCoreK8sSample\\CoreMinikubeSample\\CoreMinikubeSample\\CoreMinikubeSample.csproj",
+  "projectFilePath": "F:\\Projects\\NETCoreK8sSample\\CoreMinikubeSample\\CoreMinikubeSample\\CoreMinikubeSample.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mramezani.RAYANMEHR\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\5.0.17\\microsoft.aspnetcore.mvc.razor.extensions.5.0.17.nupkg.sha512",
     "C:\\Users\\mramezani.RAYANMEHR\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\5.0.17\\microsoft.aspnetcore.mvc.razor.runtimecompilation.5.0.17.nupkg.sha512",
