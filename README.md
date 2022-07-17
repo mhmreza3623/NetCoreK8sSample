@@ -1,2 +1,2 @@
-# NetCoreK8sSample
+# NetCoreMinikubeSample
 Deploy a .NET Core App on Minikube
