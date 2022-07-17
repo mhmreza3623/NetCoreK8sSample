@@ -1,0 +1,27 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  creationTimestamp: null
+  labels:
+    app: minikubesample1
+  name: minikubesample1
+spec:
+  replicas: 5
+  selector:
+    matchLabels:
+      app: minikubesample1
+  strategy: {}
+  template:
+    metadata:
+      creationTimestamp: null
+      labels:
+        app: minikubesample1
+    spec:
+      containers:
+      - image: docker.io/mhmreza/minikubesample1
+        name: minikubesample1
+        imagePullPolicy: Always
+        resources: {}
+        ports:
+          - containerPort: 8080 
+status: {}
