@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5KVieTlckHyGJ3vFzAzufCyM0el4lZnaYHtXL9JYz/OYAxAuWsUXaN4TnliXHNntx/9HmUCd6VGo64QoDy/8Iw==",
+  "dgSpecHash": "GKTl6Ti0sJx+wmQvHstKdAe9/bSFmtzkamPtcWHx40p/qQFQ8OaQ4D7U13DgaPIbvL+39OzLoWzITVlb/Vos2w==",
   "success": true,
-  "projectFilePath": "F:\\Projects\\NETCoreK8sSample\\CoreMinikubeSample\\CoreMinikubeSample\\CoreMinikubeSample.csproj",
+  "projectFilePath": "F:\\Projects\\NETCoreK8sSample\\CoreMinikubeSample\\CoreMinikubeSample.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mramezani.RAYANMEHR\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\5.0.17\\microsoft.aspnetcore.mvc.razor.extensions.5.0.17.nupkg.sha512",
     "C:\\Users\\mramezani.RAYANMEHR\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\5.0.17\\microsoft.aspnetcore.mvc.razor.runtimecompilation.5.0.17.nupkg.sha512",
@@ -13,6 +13,7 @@
     "C:\\Users\\mramezani.RAYANMEHR\\.nuget\\packages\\microsoft.codeanalysis.razor\\5.0.17\\microsoft.codeanalysis.razor.5.0.17.nupkg.sha512",
     "C:\\Users\\mramezani.RAYANMEHR\\.nuget\\packages\\microsoft.extensions.dependencymodel\\5.0.0\\microsoft.extensions.dependencymodel.5.0.0.nupkg.sha512",
     "C:\\Users\\mramezani.RAYANMEHR\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",
+    "C:\\Users\\mramezani.RAYANMEHR\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512",
     "C:\\Users\\mramezani.RAYANMEHR\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
     "C:\\Users\\mramezani.RAYANMEHR\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
     "C:\\Users\\mramezani.RAYANMEHR\\.nuget\\packages\\system.reflection.metadata\\5.0.0\\system.reflection.metadata.5.0.0.nupkg.sha512",
